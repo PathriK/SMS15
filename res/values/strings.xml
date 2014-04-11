@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">SMS15</string>
+    <string name="app_name">SMS_15</string>
+    <string name="frm_dt">From Date:</string>
+    <string name="to_dt">To Date:</string>
+    <string name="pop_hlp_ttl">Help</string>
+    <string name="pop_abt_ttl">About</string>
+    <string name="dev_name">Droidstein The DNA</string>
+    <string name="mail_id">$TBD$</string>
+    <string name="frm_to_err">From date is Future of To Date</string>
+    <string name="Future_Year">Future_Year</string>
+	<string name="Future_Month">Future_Month</string>
+	<string name="Future_Day">Future_Day</string>
+</resources>

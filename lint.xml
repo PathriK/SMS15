@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="BackButton" severity="warning" />
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="FieldGetter" severity="warning" />
+    <issue id="IconExpectedSize" severity="warning" />
+    <issue id="ShowToast" severity="ignore" />
+    <issue id="TypographyQuotes" severity="warning" />
+    <issue id="UnusedIds" severity="ignore" />
+    <issue id="UseCompoundDrawables" severity="ignore" />
+</lint>
